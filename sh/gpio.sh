@@ -7,7 +7,7 @@
 api=https://live.cat5.tv/api/test
 
 # Which GPIO pin to use
-pin=24
+pin=18
 
 
   if [[ -e /usr/local/bin/gpio ]]; then
