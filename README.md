@@ -13,4 +13,4 @@ bash
 
 * /sh/install.sh - Install wiringPi to allow use of Raspberry Pi GPIO
 * /sh/text-status.sh - Output plain text on/off-air. Defaults to test API.
-* /sh/gpio.sh - In addition to text output, enable GPIO pin 24 if on-air and disable it if not. Defaults to test API.
+* /sh/gpio.sh - In addition to text output, enable GPIO pin 18 if on-air and disable it if not. Defaults to test API.
